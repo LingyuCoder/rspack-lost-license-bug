@@ -1,0 +1,12 @@
+{
+  "name": "rsbuild-repro-invalid-legal-comments",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build": "rspack build"
+  },
+  "devDependencies": {
+  },
+  "dependencies": {
+  }
+}
